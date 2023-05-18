@@ -103,7 +103,9 @@ Three example sets of questions and answers are shown.  The actual file must hav
 	<Web_Info>
 		<Application_URLs>
 			<Application_Info_URL />
+https://diyexperimenter.github.io/KolozigisSite/index.html</Application_Info_URL />
 			<Application_Order_URL />
+https://diyexperimenter.github.io/KolozigisSite/index.html</Application_Order_URL />
 			<Application_Screenshot_URL>https://diyexperimenter.github.io/KolozigisSite/KolozigisQuizSolitaireScreenShot.png</Application_Screenshot_URL>
 			<Application_Icon_URL>https://diyexperimenter.github.io/KolozigisSite/icon1.ico</Application_Icon_URL>
 			<Application_XML_File_URL>https://diyexperimenter.github.io/KolozigisSite/KolozigisQuizSolitaire.pad</Application_XML_File_URL>
