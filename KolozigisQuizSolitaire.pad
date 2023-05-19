@@ -13,7 +13,8 @@
 		<State_Province>CT</State_Province>
 		<Zip_Postal_Code>06002</Zip_Postal_Code>
 		<Country>Hartford</Country>
-		<Company_WebSite_URL>https://diyexperimenter.github.io/KolozigisSite/index.html</Company_WebSite_URL>
+		<Company_WebSite_URL />
+https://diyexperimenter.github.io/KolozigisSite/index</Company_WebSite_URL />
 		<Contact_Info>
 			<Author_First_Name>Joel</Author_First_Name>
 			<Author_Last_Name>Clark</Author_Last_Name>
@@ -32,6 +33,7 @@
 			<Fax_Phone />
 		</Support_Info>
 	</Company_Info>
+
 	<Program_Info>
 		<Program_Name>KolozigisQuizSolitaire.exe</Program_Name>
 		<Program_Version>1.0</Program_Version>
@@ -102,10 +104,8 @@ Three example sets of questions and answers are shown.  The actual file must hav
 	</Program_Descriptions>
 	<Web_Info>
 		<Application_URLs>
-			<Application_Info_URL />
-https://diyexperimenter.github.io/KolozigisSite/index.html</Application_Info_URL />
-			<Application_Order_URL />
-https://diyexperimenter.github.io/KolozigisSite/index.html</Application_Order_URL />
+			<Application_Info_URL>https://diyexperimenter.github.io/KolozigisSite/index</Application_Info_URL>
+			<Application_Order_URL>https://diyexperimenter.github.io/KolozigisSite/index</Application_Order_URL>
 			<Application_Screenshot_URL>https://diyexperimenter.github.io/KolozigisSite/KolozigisQuizSolitaireScreenShot.png</Application_Screenshot_URL>
 			<Application_Icon_URL>https://diyexperimenter.github.io/KolozigisSite/icon1.ico</Application_Icon_URL>
 			<Application_XML_File_URL>https://diyexperimenter.github.io/KolozigisSite/KolozigisQuizSolitaire.pad</Application_XML_File_URL>
