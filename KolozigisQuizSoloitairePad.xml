@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <PAD_FILE_SPECIFICATION>
+    <PAD_FILE_VERSION>4.0</PAD_FILE_VERSION>
+    <PAD_FILE_INFO>https://diyexperimenter.github.io/KolozigisSite/KolozigiQuizSolitaire.html</PAD_FILE_INFO>
+    <PAD_FILE_AUTHOR>Joel Clark</PAD_FILE_AUTHOR>
+    <PAD_FILE_EMAIL>joel_a_clark@earthlink.net</PAD_FILE_EMAIL>
+    <PAD_FILE_WEBSITE>https://diyexperimenter.github.io/KolozigisSite</PAD_FILE_WEBSITE>
+  </PAD_FILE_SPECIFICATION>
+  <Company_Info>
+    <Company_Name>Kolozigis Publishing Company</Company_Name>
+    <Company_Website>https://diyexperimenter.github.io/KolozigisSite/index.html</Company_Website>
+    <Contact_Info>
+      <Contact_Name>Joel Clark</Contact_Name>
+      <Contact_Email>joel_a_clark@earthlink.net</Contact_Email>
+    </Contact_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>KolozigisQuizSolitaire.exe</Program_Name>
+    <Program_Version>1.0</Program_Version>
+    <Program_Release_Date>2023-05-08</Program_Release_Date>
+    <Program_Description>The Kolozigiz Quiz Solitaire program for Microsoft Windows can help you to memorize and learn any text information while playing the popular Klondike Solitaire game.  As you play the card game, from time to time a question will pop up which can be answered by selecting one of four answers.  
+
+The questions and answers are obtained from text files which are read by the program.  They are in a format that the program uses to properly use the data, which is shown below:
+
+What was Mark Twain's real name?
+Samuel Clemens
+William Faulkner
+Ernest Hemingway
+Edgar Allan Poe
+1
+Which of the following is NOT a book written by Mark Twain?
+The Adventures of Tom Sawyer
+The Adventures of Huckleberry Finn
+A Tale of Two Cities
+Life on the Mississippi
+3
+In which Mississippi River town was Mark Twain born?
+Hannibal
+Memphis
+New Orleans
+St. Louis
+1
+......
+Three example sets of questions and answers are shown.  The actual file must have 30 sets in this format.  Note that the first line is the question, the next 4 lines are the answers, and the 6th line is the number of the correct answer of the 4 listed. The placement is varied over the 4 possible positions.  Make sure there are no blank lines between the sets.</Program_Description>
+    <Program_URL>https://diyexperimenter.github.io/KolozigisSite/KolozigisQuizSolitaire.html</Program_URL>
+    <Download_URL>https://diyexperimenter.github.io/KolozigisSite/KolozigisSetup.exe</Download_URL>
+    <Category>educational game</Category>
+    <Keywords>solitaire, education, quiz</Keywords>
+    <!-- Additional tags and information can be added here -->
+  </Program_Info>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>https://diyexperimenter.github.io/KolozigisSite/index</Application_Info_URL>
+			<Application_Order_URL>https://diyexperimenter.github.io/KolozigisSite/index</Application_Order_URL>
+			<Application_Screenshot_URL>https://diyexperimenter.github.io/KolozigisSite/KolozigisQuizSolitaireScreenShot.png</Application_Screenshot_URL>
+			<Application_Icon_URL>https://diyexperimenter.github.io/KolozigisSite/icon1.ico</Application_Icon_URL>
+			<Application_XML_File_URL>https://diyexperimenter.github.io/KolozigisSite/KolozigisQuizSolitairePad.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			https://diyexperimenter.github.io/KolozigisSite/KolozigisSetup.exe</Download_URLs>
+	</Web_Info>
+</XML_DIZ_INFO>
