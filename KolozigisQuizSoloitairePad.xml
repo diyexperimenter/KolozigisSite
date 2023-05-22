@@ -9,7 +9,7 @@
   </PAD_FILE_SPECIFICATION>
   <Company_Info>
     <Company_Name>Kolozigis Publishing Company</Company_Name>
-    <Company_Website>https://diyexperimenter.github.io/KolozigisSite/index.html</Company_Website>
+    <Company_Website_URL>https://diyexperimenter.github.io/KolozigisSite/index.html</Company_Website_URL>
     <Contact_Info>
       <Contact_Name>Joel Clark</Contact_Name>
       <Contact_Email>joel_a_clark@earthlink.net</Contact_Email>
@@ -18,7 +18,10 @@
   <Program_Info>
     <Program_Name>KolozigisQuizSolitaire.exe</Program_Name>
     <Program_Version>1.0</Program_Version>
-    <Program_Release_Date>2023-05-08</Program_Release_Date>
+    <Program_Release_Month>03</Program_Release_Month>
+    <Program_Release_Day>20</Program_Release_Day>
+    <Program_Release_Year>2023</Program_Release_Year>
+    <Program_Type>educational game</Program_Type>
     <Program_Description>The Kolozigiz Quiz Solitaire program for Microsoft Windows can help you to memorize and learn any text information while playing the popular Klondike Solitaire game.  As you play the card game, from time to time a question will pop up which can be answered by selecting one of four answers.  
 
 The questions and answers are obtained from text files which are read by the program.  They are in a format that the program uses to properly use the data, which is shown below:
